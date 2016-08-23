@@ -1,0 +1,11 @@
+Beautiful soup 
+
+This is used to get the element or details from the webpage through the internet.
+
+like:
+
+newshunt
+cricket score
+links only
+....etc
+
