@@ -3,6 +3,9 @@
 ##Developer
 >###*Manimaran.K*
 
+##My Blog
+>[https://manimaran96.wordpress.com](https://manimaran96.wordpress.com) 
+
 ##**About me**
         Manimaran.K
         Computer Science Engineering
